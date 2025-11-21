@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Restaurant_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEB769-D0D0-E19B-E95E-B074CA807263}|RestaurantBackend.csproj|e:\\restaurant_backend\\match.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7BCEB769-D0D0-E19B-E95E-B074CA807263}|RestaurantBackend.csproj|solutionrelative:match.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCEB769-D0D0-E19B-E95E-B074CA807263}|RestaurantBackend.csproj|e:\\restaurant_backend\\stadium.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7BCEB769-D0D0-E19B-E95E-B074CA807263}|RestaurantBackend.csproj|solutionrelative:stadium.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "match.http",
+              "DocumentMoniker": "E:\\Restaurant_backend\\match.http",
+              "RelativeDocumentMoniker": "match.http",
+              "ToolTip": "E:\\Restaurant_backend\\match.http",
+              "RelativeToolTip": "match.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-19T08:47:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stadium.http",
+              "DocumentMoniker": "E:\\Restaurant_backend\\stadium.http",
+              "RelativeDocumentMoniker": "stadium.http",
+              "ToolTip": "E:\\Restaurant_backend\\stadium.http",
+              "RelativeToolTip": "stadium.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-19T08:47:24.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
