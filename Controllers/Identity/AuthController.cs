@@ -1,5 +1,5 @@
 using RestaurantBackend.Data; // Hoặc RestaurantBackend.Data tùy namespace của bạn
-using RestaurantBackend.Models.Entity; 
+using RestaurantBackend.Models.Entity;
 using RestaurantBackend.Models.Dtos; // Hoặc RestaurantBackend.Models
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
