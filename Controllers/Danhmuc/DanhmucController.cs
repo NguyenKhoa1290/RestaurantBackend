@@ -10,11 +10,11 @@ namespace RestaurantBackend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoryController : ControllerBase
+    public class DanhmucController : ControllerBase
     {
         private readonly DataContext _context;
 
-        public CategoryController(DataContext context)
+        public DanhmucController(DataContext context)
         {
             _context = context;
         }
