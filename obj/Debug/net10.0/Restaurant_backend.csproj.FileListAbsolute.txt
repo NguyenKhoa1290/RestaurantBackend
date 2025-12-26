@@ -1,0 +1,1624 @@
+E:\Restaurant_backend\bin\Debug\net10.0\appsettings.Development.json
+E:\Restaurant_backend\bin\Debug\net10.0\appsettings.json
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.exe
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Restaurant_backend.pdb
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+E:\Restaurant_backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.sourcelink.json
+E:\Restaurant_backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Restaurant_backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Restaurant_backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Restaurant_backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+E:\Restaurant_backend\obj\Debug\net10.0\staticwebassets.build.json
+E:\Restaurant_backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Restaurant_backend\obj\Debug\net10.0\staticwebassets.development.json
+E:\Restaurant_backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Restaurant_backend\obj\Debug\net10.0\swae.build.ex.cache
+E:\Restaurant_backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.dll
+E:\Restaurant_backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.pdb
+E:\Restaurant_backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+E:\Restaurant_backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+E:\Restaurant_backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Humanizer.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Scrutor.dll
+E:\Restaurant_backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+E:\Restaurant_backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+E:\Restaurant_backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Restaurant_backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.CodeDom.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Restaurant_backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Restaurant_backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Restaurant_backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+F:\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+C:\Users\tranh\Downloads\Telegram Desktop\RestaurantSolution\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\WebAdmin\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+F:\WebAdmin\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+F:\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+F:\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+C:\Users\tranh\Downloads\Telegram Desktop\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+F:\Project\OrderFoodSystem\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.sourcelink.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+C:\Users\Admin\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.sourcelink.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+F:\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\appsettings.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.runtime.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.staticwebassets.endpoints.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.exe
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.deps.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.runtimeconfig.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Scrutor.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SixLabors.ImageSharp.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.sourcelink.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\scopedcss\bundle\Restaurant_backend.styles.css
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaura.294259E6.Up2Date
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\refint\Restaurant_backend.dll
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.pdb
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\Restaurant_backend.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\HuongDichVu (1)\HuongDichVu\RestaurantBackend-backend\obj\Debug\net10.0\ref\Restaurant_backend.dll

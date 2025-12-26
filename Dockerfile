@@ -1,0 +1,19 @@
+# See https://docs.microsoft.com/dotnet/core/docker/building-net-docker-images for .NET Docker best practices
+# Multi-stage build for ASP.NET Core
+
+# Build stage
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+COPY ["Restaurant_backend.csproj", "."]
+RUN dotnet restore "./Restaurant_backend.csproj"
+COPY . .
+RUN dotnet publish "./Restaurant_backend.csproj" -c Release -o /app/publish
+
+# Runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+EXPOSE 5000
+EXPOSE 5001
+ENV ASPNETCORE_URLS="http://+:5000;https://+:5001"
+ENTRYPOINT ["dotnet", "Restaurant_backend.dll"]
