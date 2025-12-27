@@ -14,6 +14,5 @@ FROM mcr.microsoft.com/dotnet/aspnet:10.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 EXPOSE 5000
-EXPOSE 5001
-ENV ASPNETCORE_URLS="http://+:5000;https://+:5001"
+ENV ASPNETCORE_URLS="http://+:5000"
 ENTRYPOINT ["dotnet", "Restaurant_backend.dll"]
